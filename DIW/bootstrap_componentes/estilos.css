@@ -1,0 +1,108 @@
+
+.header{
+    background: #787878;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.header_area{
+    padding: 20px;
+}
+
+.memu_area{
+    margin-top: 30px;
+}
+.search-txt{
+    top: 50%;
+    right: 50%;
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+}
+
+.memu_area nav a{
+    background-color: black;
+    color:white;
+    margin-bottom: 10px;
+}
+
+.memu_area nav a:hover{
+    background-color: #727272;
+}
+
+
+.active{
+    background-color: black !important;
+}
+
+.logo{
+    width: 150px;
+}
+
+.main .card{
+    margin-bottom: 10px;
+}
+
+.main_area{
+    margin-bottom: 10px;
+}
+
+.footer{
+    margin-top: 10px;
+    background: #787878;
+    color: white;
+}
+.footer_area{
+    padding: 20px;
+    text-align: center  ;
+}
+
+.modal-body img{ width: 80%;}
+
+.memu_area2{
+    margin-top: 30px;
+}
+
+.memu_area2 nav a{
+    background-color: #727272;
+    color:white;
+    margin-bottom: 10px;
+}
+
+.memu_area2 nav a:hover{
+    background-color: #eeb868;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between  ;
+    margin-left: 20px;
+    flex-direction: row;
+    align-items: center;
+    padding: 8s0px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.card1{
+    background-color: lavender;
+}
+.row h1{
+    align-items: center;
+    display: flex;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.btn-group{
+    padding: 20px;
+}
+.row{
+    padding: 10px;
+}
+.row1{
+    padding: 10px;
+}
